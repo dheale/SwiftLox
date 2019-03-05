@@ -18,8 +18,6 @@ do {
     
     let lox = LoxInterpreter()
     
-//    if true { // numArgs == 2 {
-//        let path = "/tmp/t.lox" //args[1]
     if numArgs == 2 {
         let path = args[1]
 
